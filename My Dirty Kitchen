@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                background-color: rgb(253, 255, 219);
+            }
+            .pancakes-style {
+                background-color: rgb(255, 240, 173);
+            }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="recipe-book" class="pancakes-style">Andrei's Recipe Book</h1>
+        
+        <h2 class="pancakes-style">Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-pancakes">Recipe #1</a></li>
+            <li><a href="#recipe-sandwich">Recipe #2</a></li>
+            <li><a href="#recipe-eggs">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recipe-pancakes" class="pancakes-style">Recipe #1 - Pancakes</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heap_of_pancakes_in_Sweden.JPG/796px-Heap_of_pancakes_in_Sweden.JPG" alt="golden buttery pancakes" width="250"> 
+        <ul>
+            <li>Time: 10-30 minutes</li>
+            <li>Serves: 10-15 pancakes</li>
+        </ul >
+        
+        <table >
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Milk</td>
+                    <td>1 cup(250ml)</td>
+                </tr>
+                <tr>
+                    <td>Flour</td>
+                    <td>1/2 cup(125ml)</td>
+                </tr>
+                <tr>
+                    <td>Oil or Butter</td>
+                    <td>1 tbl spoon</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Mix all the ingredients together, so it will make a one colored mass, get rid of all flour pieces.
+</p>
+        <p><strong>Step 2:</strong> Get out your baking pan, pre-heat it just a lil bit, pour on some oil or butter, and start BAKING!! (usually it takes 2 mins on each sides to get it baked properly, but every kitchen is different, so bake them, till you see this typical pancake goldness.)</p>
+        <p><strong>Step 3:</strong> And remember! - <strong><em>Pervyj blin komom!!</em></strong></p>
+    <p><em>Source: <a href="https://www.allrecipes.com/recipe/215962/blini-russian-pancakes/">True Russian BLINI</a></em></p>
+    
+    <h2 id="recipe-sandwich" class="pancakes-style">Recipe #2 - Russian Sandwich</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ham_sandwich.jpg/300px-Ham_sandwich.jpg" alt="Cheese and Ham Sandwich" width="250">
+    <ul>
+        <li>Time: 2-5 minutes</li>
+        <li>Serves: 1 Sandwich</li>
+    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quanity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Bread</td>
+                <td>2 slices</td>
+            </tr>
+            <tr>
+                <td>Ham</td>
+                <td>1-4 slices
+            </tr>
+            <tr>
+                <td>Cheese</td>
+                <td>1-4 slices</td>
+            </tr>
+            <tr>
+                <td>Butter</td>
+                <td>2 tbs</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>Step 1:</strong> Place first slice of bread on the table or plate and cover it with 1 tbs of butter.</p>
+    <p><strong>Step 2: </strong> On the top of buttered bread put slices of ham and cheese, as many as you wish.</p>
+    <p><strong>Step 3:</strong> Take second slice of bread, covoer it with 2nd tbs of butter and <strong>eAT THE FUCKIN SANDWICH!</strong></p>
+    <p><em>Source: <a href="https://www.yummly.com/recipe/Reuben-1615228">Like this, but for poor people.</a></em></p>
+    
+    <h2 id="recipe-eggs" class="pancakes-style">Recipe #3 - Indian Boiled Eggs</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vaj%C3%AD%C4%8Dka_na_tvrdo.jpg/300px-Vaj%C3%AD%C4%8Dka_na_tvrdo.jpg" alt="Boiled eggs on a plate" width="250">
+    <ul>
+        <li>Time: 10-20 minutes</li>
+        <li>Serve: 3 person</li>
+    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quanity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Eggs</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>Water</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>Step 1: </strong>Pour water in a pot</p>
+    <p><strong>Step 2: </strong>Make water boil</p>
+    <p><strong>Step 3: </strong>Put eggs in boiling water</p>
+    <p><strong>Step 4: </strong>Boil eggs for 5-10 minutes</p>
+    <p><strong>Step 5: </strong>Peel off the shell</p>
+    <p><strong>Step 6: </strong>Cut eggs in half, so there will be 12 egg pieces in total</p>
+    <p><strong>Step 7: </strong>4 egg pieces => 1 person!</p>
+    <p><em>Source: <a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%B6_%D9%85%D8%B3%D9%84%D9%88%D9%82">Indian Wikipedia and analytical mindset</a></em></p>
+    <p class="pancakes-style"><strong><em ><a href="#recipe-book">Back on Top</a></em></strong></p>
+    </body>
+</html>
